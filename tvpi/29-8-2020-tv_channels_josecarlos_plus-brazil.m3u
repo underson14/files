@@ -1,0 +1,1183 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br"tvg-name="Cartoon Network HD"tvg-logo="http://rtrmsrv22.gq/images/logos/cartoon.png"group-title="CANAIS INFANTIL",alliptvlinks.com Cartoon Network HD
+http://boxiptv.club:8080/josecarlos/123456/42
+#EXTINF:-1 tvg-id="hgtv.brazil.br"tvg-name="HGTV HD"tvg-logo="http://rtrmsrv22.gq/images/logos/discoverycivilization.png"group-title="CANAIS VARIEDADES",alliptvlinks.com HGTV HD
+http://boxiptv.club:8080/josecarlos/123456/232
+#EXTINF:-1 tvg-id="hgtv.brazil.sdtv.br"tvg-name="HGTV SD"tvg-logo="http://rtrmsrv22.gq/images/logos/discoverycivilization.png"group-title="CANAIS VARIEDADES",alliptvlinks.com HGTV SD
+http://boxiptv.club:8080/josecarlos/123456/233
+#EXTINF:-1 tvg-id="lifetime.brazil.br"tvg-name="Lifetime HD"tvg-logo="http://rtrmsrv22.gq/images/logos/lifetime.png"group-title="CANAIS VARIEDADES",alliptvlinks.com Lifetime HD
+http://boxiptv.club:8080/josecarlos/123456/241
+#EXTINF:-1 tvg-id="lifetime.brazil.br"tvg-name="Lifetime SD"tvg-logo="http://rtrmsrv22.gq/images/logos/lifetime.png"group-title="CANAIS VARIEDADES",alliptvlinks.com Lifetime SD
+http://boxiptv.club:8080/josecarlos/123456/242
+#EXTINF:-1 tvg-id="music.box.brasil.br"tvg-name="Music Box Brazil SD"tvg-logo="http://rtrmsrv22.gq/images/logos/musicboxbrazil.png"group-title="CANAIS VARIEDADES",alliptvlinks.com Music Box Brazil SD
+http://boxiptv.club:8080/josecarlos/123456/257
+#EXTINF:-1 tvg-id=""tvg-name="Prime Box Brazil SD"tvg-logo="http://rtrmsrv22.gq/images/logos/primeboxbrazil.png"group-title="CANAIS ABERTOS",alliptvlinks.com Prime Box Brazil SD
+http://boxiptv.club:8080/josecarlos/123456/303
+#EXTINF:-1 tvg-id="travel.box.brazil.br"tvg-name="Travel Box Brasil HD"tvg-logo="http://rtrmsrv22.gq/images/logos/travelboxbrazil.png"group-title="CANAIS VARIEDADES",alliptvlinks.com Travel Box Brasil HD
+http://boxiptv.club:8080/josecarlos/123456/384
+#EXTINF:-1 tvg-id="hgtv.brazil.br"tvg-name="HGTV Full HD"tvg-logo="http://rtrmsrv22.gq/images/logos/discoverycivilization.png"group-title="CANAIS FULLHD",alliptvlinks.com HGTV Full HD
+http://boxiptv.club:8080/josecarlos/123456/231
+#EXTINF:-1 tvg-id="lifetime.brazil.br"tvg-name="Lifetime Full HD"tvg-logo="http://rtrmsrv22.gq/images/logos/lifetime.png"group-title="CANAIS FULLHD",alliptvlinks.com Lifetime Full HD
+http://boxiptv.club:8080/josecarlos/123456/240
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EL CHAPO DUB S01 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/2ClXk4PoOGmkk676y4q6T26GJOb_small.jpg"group-title="SERIE - El Chapo",alliptvlinks.com SERIE - EL CHAPO DUB S01 E09
+http://boxiptv.club:8080/series/josecarlos/123456/47379.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CARCEREIROS DUB S01 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/k85j2uQUjl6h7rkWpDyu4qX3kYZ_small.jpg"group-title="SERIE - Carcereiros",alliptvlinks.com SERIE - CARCEREIROS DUB S01 E09
+http://boxiptv.club:8080/series/josecarlos/123456/48368.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E01
+http://boxiptv.club:8080/series/josecarlos/123456/48689.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E02
+http://boxiptv.club:8080/series/josecarlos/123456/48691.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E03
+http://boxiptv.club:8080/series/josecarlos/123456/48694.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E04
+http://boxiptv.club:8080/series/josecarlos/123456/48696.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E05
+http://boxiptv.club:8080/series/josecarlos/123456/48698.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E06
+http://boxiptv.club:8080/series/josecarlos/123456/48700.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E07
+http://boxiptv.club:8080/series/josecarlos/123456/48702.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E08
+http://boxiptv.club:8080/series/josecarlos/123456/48704.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E09
+http://boxiptv.club:8080/series/josecarlos/123456/48706.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VIKINGS DUB S02 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mBDlsOhNOV1MkNii81aT14EYQ4S_small.jpg"group-title="SERIE - Vikings",alliptvlinks.com SERIE - VIKINGS DUB S02 E10
+http://boxiptv.club:8080/series/josecarlos/123456/48708.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - RIVERDALE DUB S04 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xFpB05JnCPrIQ32ahGxxNRRSNPO_small.jpg"group-title="SERIE - Riverdale",alliptvlinks.com SERIE - RIVERDALE DUB S04 E10
+http://boxiptv.club:8080/series/josecarlos/123456/51771.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/yXOJBru6rc1G1D8vF5hZ0efHrzI_small.jpg"group-title="SERIE - Constantine: City of Demons",alliptvlinks.com SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E06
+http://boxiptv.club:8080/series/josecarlos/123456/53897.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/yXOJBru6rc1G1D8vF5hZ0efHrzI_small.jpg"group-title="SERIE - Constantine: City of Demons",alliptvlinks.com SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E07
+http://boxiptv.club:8080/series/josecarlos/123456/53899.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/yXOJBru6rc1G1D8vF5hZ0efHrzI_small.jpg"group-title="SERIE - Constantine: City of Demons",alliptvlinks.com SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E08
+http://boxiptv.club:8080/series/josecarlos/123456/53901.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/yXOJBru6rc1G1D8vF5hZ0efHrzI_small.jpg"group-title="SERIE - Constantine: City of Demons",alliptvlinks.com SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E09
+http://boxiptv.club:8080/series/josecarlos/123456/53903.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/yXOJBru6rc1G1D8vF5hZ0efHrzI_small.jpg"group-title="SERIE - Constantine: City of Demons",alliptvlinks.com SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E10
+http://boxiptv.club:8080/series/josecarlos/123456/53905.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/yXOJBru6rc1G1D8vF5hZ0efHrzI_small.jpg"group-title="SERIE - Constantine: City of Demons",alliptvlinks.com SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E11
+http://boxiptv.club:8080/series/josecarlos/123456/53907.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/yXOJBru6rc1G1D8vF5hZ0efHrzI_small.jpg"group-title="SERIE - Constantine: City of Demons",alliptvlinks.com SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E12
+http://boxiptv.club:8080/series/josecarlos/123456/53910.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/yXOJBru6rc1G1D8vF5hZ0efHrzI_small.jpg"group-title="SERIE - Constantine: City of Demons",alliptvlinks.com SERIE - CONSTANTINE: CITY OF DEMONS DUB S01 E13
+http://boxiptv.club:8080/series/josecarlos/123456/53912.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS 100 DUB S05 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cfhfcEt4bOXuVZkTC0nNBpqqiWb_small.jpg"group-title="SERIE - Os 100",alliptvlinks.com SERIE - OS 100 DUB S05 E01
+http://boxiptv.club:8080/series/josecarlos/123456/54320.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS 100 DUB S06 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cfhfcEt4bOXuVZkTC0nNBpqqiWb_small.jpg"group-title="SERIE - Os 100",alliptvlinks.com SERIE - OS 100 DUB S06 E03
+http://boxiptv.club:8080/series/josecarlos/123456/54325.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS 100 DUB S06 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cfhfcEt4bOXuVZkTC0nNBpqqiWb_small.jpg"group-title="SERIE - Os 100",alliptvlinks.com SERIE - OS 100 DUB S06 E04
+http://boxiptv.club:8080/series/josecarlos/123456/54324.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS 100 DUB S06 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cfhfcEt4bOXuVZkTC0nNBpqqiWb_small.jpg"group-title="SERIE - Os 100",alliptvlinks.com SERIE - OS 100 DUB S06 E05
+http://boxiptv.club:8080/series/josecarlos/123456/54323.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - HEARTLAND DUB S11 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/wAvyIPe0hh3u3lQhmp67vBgMCXT_small.jpg"group-title="SERIE - Heartland",alliptvlinks.com SERIE - HEARTLAND DUB S11 E16
+http://boxiptv.club:8080/series/josecarlos/123456/54759.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - HEARTLAND DUB S11 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/wAvyIPe0hh3u3lQhmp67vBgMCXT_small.jpg"group-title="SERIE - Heartland",alliptvlinks.com SERIE - HEARTLAND DUB S11 E17
+http://boxiptv.club:8080/series/josecarlos/123456/54760.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - HEARTLAND DUB S11 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/wAvyIPe0hh3u3lQhmp67vBgMCXT_small.jpg"group-title="SERIE - Heartland",alliptvlinks.com SERIE - HEARTLAND DUB S11 E18
+http://boxiptv.club:8080/series/josecarlos/123456/54761.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - INCRÍVEL HULK DUB S02 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3Q6gQ3F0S7jb4DwsQkiriwDxKAw_small.jpg"group-title="SERIE - Incrível Hulk",alliptvlinks.com SERIE - INCRÍVEL HULK DUB S02 E01
+http://boxiptv.club:8080/series/josecarlos/123456/55146.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - INCRÍVEL HULK DUB S02 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3Q6gQ3F0S7jb4DwsQkiriwDxKAw_small.jpg"group-title="SERIE - Incrível Hulk",alliptvlinks.com SERIE - INCRÍVEL HULK DUB S02 E02
+http://boxiptv.club:8080/series/josecarlos/123456/55147.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - INCRÍVEL HULK DUB S02 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3Q6gQ3F0S7jb4DwsQkiriwDxKAw_small.jpg"group-title="SERIE - Incrível Hulk",alliptvlinks.com SERIE - INCRÍVEL HULK DUB S02 E03
+http://boxiptv.club:8080/series/josecarlos/123456/55148.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - INCRÍVEL HULK DUB S02 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3Q6gQ3F0S7jb4DwsQkiriwDxKAw_small.jpg"group-title="SERIE - Incrível Hulk",alliptvlinks.com SERIE - INCRÍVEL HULK DUB S02 E04
+http://boxiptv.club:8080/series/josecarlos/123456/55149.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - INCRÍVEL HULK DUB S02 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3Q6gQ3F0S7jb4DwsQkiriwDxKAw_small.jpg"group-title="SERIE - Incrível Hulk",alliptvlinks.com SERIE - INCRÍVEL HULK DUB S02 E05
+http://boxiptv.club:8080/series/josecarlos/123456/55150.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - INCRÍVEL HULK DUB S02 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3Q6gQ3F0S7jb4DwsQkiriwDxKAw_small.jpg"group-title="SERIE - Incrível Hulk",alliptvlinks.com SERIE - INCRÍVEL HULK DUB S02 E06
+http://boxiptv.club:8080/series/josecarlos/123456/55151.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - INCRÍVEL HULK DUB S02 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3Q6gQ3F0S7jb4DwsQkiriwDxKAw_small.jpg"group-title="SERIE - Incrível Hulk",alliptvlinks.com SERIE - INCRÍVEL HULK DUB S02 E07
+http://boxiptv.club:8080/series/josecarlos/123456/55152.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E02
+http://boxiptv.club:8080/series/josecarlos/123456/55242.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E03
+http://boxiptv.club:8080/series/josecarlos/123456/55243.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E04
+http://boxiptv.club:8080/series/josecarlos/123456/55244.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E05
+http://boxiptv.club:8080/series/josecarlos/123456/55245.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E06
+http://boxiptv.club:8080/series/josecarlos/123456/55246.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E07
+http://boxiptv.club:8080/series/josecarlos/123456/55247.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E08
+http://boxiptv.club:8080/series/josecarlos/123456/55248.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E09
+http://boxiptv.club:8080/series/josecarlos/123456/55249.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ASSÉDIO DUB S01 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/s660mX5LFJ29wnffy0vZQV6ncQU_small.jpg"group-title="SERIE - Assédio",alliptvlinks.com SERIE - ASSÉDIO DUB S01 E10
+http://boxiptv.club:8080/series/josecarlos/123456/55250.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S04 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S04 E23
+http://boxiptv.club:8080/series/josecarlos/123456/55673.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E01
+http://boxiptv.club:8080/series/josecarlos/123456/55833.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E02
+http://boxiptv.club:8080/series/josecarlos/123456/55834.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E03
+http://boxiptv.club:8080/series/josecarlos/123456/55835.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E04
+http://boxiptv.club:8080/series/josecarlos/123456/55836.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E05
+http://boxiptv.club:8080/series/josecarlos/123456/55837.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E06
+http://boxiptv.club:8080/series/josecarlos/123456/55838.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E07
+http://boxiptv.club:8080/series/josecarlos/123456/55839.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E08
+http://boxiptv.club:8080/series/josecarlos/123456/55840.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E09
+http://boxiptv.club:8080/series/josecarlos/123456/55841.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E10
+http://boxiptv.club:8080/series/josecarlos/123456/55842.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E11
+http://boxiptv.club:8080/series/josecarlos/123456/55852.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E12
+http://boxiptv.club:8080/series/josecarlos/123456/55843.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E13
+http://boxiptv.club:8080/series/josecarlos/123456/55844.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E14
+http://boxiptv.club:8080/series/josecarlos/123456/55845.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E15
+http://boxiptv.club:8080/series/josecarlos/123456/55846.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E16
+http://boxiptv.club:8080/series/josecarlos/123456/55847.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E17
+http://boxiptv.club:8080/series/josecarlos/123456/55848.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E18
+http://boxiptv.club:8080/series/josecarlos/123456/55849.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E19
+http://boxiptv.club:8080/series/josecarlos/123456/55850.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E20
+http://boxiptv.club:8080/series/josecarlos/123456/55851.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E21
+http://boxiptv.club:8080/series/josecarlos/123456/55853.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S11 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S11 E22
+http://boxiptv.club:8080/series/josecarlos/123456/55854.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E12
+http://boxiptv.club:8080/series/josecarlos/123456/56197.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E13
+http://boxiptv.club:8080/series/josecarlos/123456/56198.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E14
+http://boxiptv.club:8080/series/josecarlos/123456/56199.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E15
+http://boxiptv.club:8080/series/josecarlos/123456/56200.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E16
+http://boxiptv.club:8080/series/josecarlos/123456/56201.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E17
+http://boxiptv.club:8080/series/josecarlos/123456/56202.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E18
+http://boxiptv.club:8080/series/josecarlos/123456/56203.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E19
+http://boxiptv.club:8080/series/josecarlos/123456/56204.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E20
+http://boxiptv.club:8080/series/josecarlos/123456/56205.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E21
+http://boxiptv.club:8080/series/josecarlos/123456/56206.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS SIMPSONS DUB S24 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9fSGtPOp3MlFfynLEjYjlOfenbk_small.jpg"group-title="SERIE - Os Simpsons",alliptvlinks.com SERIE - OS SIMPSONS DUB S24 E22
+http://boxiptv.club:8080/series/josecarlos/123456/56207.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O MENTALISTA DUB S01 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg"group-title="SERIE - O Mentalista",alliptvlinks.com SERIE - O MENTALISTA DUB S01 E21
+http://boxiptv.club:8080/series/josecarlos/123456/56267.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E01
+http://boxiptv.club:8080/series/josecarlos/123456/56482.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E02
+http://boxiptv.club:8080/series/josecarlos/123456/56483.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E03
+http://boxiptv.club:8080/series/josecarlos/123456/56484.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E04
+http://boxiptv.club:8080/series/josecarlos/123456/56485.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E05
+http://boxiptv.club:8080/series/josecarlos/123456/56486.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E06
+http://boxiptv.club:8080/series/josecarlos/123456/56487.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E07
+http://boxiptv.club:8080/series/josecarlos/123456/56488.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E08
+http://boxiptv.club:8080/series/josecarlos/123456/56489.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E09
+http://boxiptv.club:8080/series/josecarlos/123456/56490.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SPARTACUS DUB S04 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/18FWPmsh2dULwMyWGjNDCUsmGRM_small.jpg"group-title="SERIE - Spartacus",alliptvlinks.com SERIE - SPARTACUS DUB S04 E10
+http://boxiptv.club:8080/series/josecarlos/123456/56491.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CHICAGO MED DUB S04 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/tsrDUKxchCslwZQYIwdj8bRaoUo_small.jpg"group-title="SERIE - Chicago Med",alliptvlinks.com SERIE - CHICAGO MED DUB S04 E19
+http://boxiptv.club:8080/series/josecarlos/123456/56554.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CHICAGO MED DUB S04 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/tsrDUKxchCslwZQYIwdj8bRaoUo_small.jpg"group-title="SERIE - Chicago Med",alliptvlinks.com SERIE - CHICAGO MED DUB S04 E21
+http://boxiptv.club:8080/series/josecarlos/123456/56556.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - CHICAGO MED DUB S04 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/tsrDUKxchCslwZQYIwdj8bRaoUo_small.jpg"group-title="SERIE - Chicago Med",alliptvlinks.com SERIE - CHICAGO MED DUB S04 E22
+http://boxiptv.club:8080/series/josecarlos/123456/56557.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BIG BANG: A TEORIA DUB S08 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/y47TQybIv7GqrrAkmnt6jFciP7a_small.jpg"group-title="SERIE - Big Bang: A Teoria",alliptvlinks.com SERIE - BIG BANG: A TEORIA DUB S08 E08
+http://boxiptv.club:8080/series/josecarlos/123456/56942.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BIG BANG: A TEORIA DUB S12 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/y47TQybIv7GqrrAkmnt6jFciP7a_small.jpg"group-title="SERIE - Big Bang: A Teoria",alliptvlinks.com SERIE - BIG BANG: A TEORIA DUB S12 E24
+http://boxiptv.club:8080/series/josecarlos/123456/57078.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - 9MM SÃO PAULO DUB S02 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9Adhok4g0rVUdAwTuTC9Cz8IlV0_small.jpg"group-title="SERIE - 9mm",alliptvlinks.com SERIE - 9MM SÃO PAULO DUB S02 E01
+http://boxiptv.club:8080/series/josecarlos/123456/57792.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - 9MM SÃO PAULO DUB S02 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9Adhok4g0rVUdAwTuTC9Cz8IlV0_small.jpg"group-title="SERIE - 9mm",alliptvlinks.com SERIE - 9MM SÃO PAULO DUB S02 E02
+http://boxiptv.club:8080/series/josecarlos/123456/57793.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - 9MM SÃO PAULO DUB S02 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9Adhok4g0rVUdAwTuTC9Cz8IlV0_small.jpg"group-title="SERIE - 9mm",alliptvlinks.com SERIE - 9MM SÃO PAULO DUB S02 E03
+http://boxiptv.club:8080/series/josecarlos/123456/57794.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - 9MM SÃO PAULO DUB S02 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9Adhok4g0rVUdAwTuTC9Cz8IlV0_small.jpg"group-title="SERIE - 9mm",alliptvlinks.com SERIE - 9MM SÃO PAULO DUB S02 E04
+http://boxiptv.club:8080/series/josecarlos/123456/57795.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - 9MM SÃO PAULO DUB S02 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9Adhok4g0rVUdAwTuTC9Cz8IlV0_small.jpg"group-title="SERIE - 9mm",alliptvlinks.com SERIE - 9MM SÃO PAULO DUB S02 E05
+http://boxiptv.club:8080/series/josecarlos/123456/57796.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - 9MM SÃO PAULO DUB S02 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9Adhok4g0rVUdAwTuTC9Cz8IlV0_small.jpg"group-title="SERIE - 9mm",alliptvlinks.com SERIE - 9MM SÃO PAULO DUB S02 E06
+http://boxiptv.club:8080/series/josecarlos/123456/57797.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - 9MM SÃO PAULO DUB S02 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9Adhok4g0rVUdAwTuTC9Cz8IlV0_small.jpg"group-title="SERIE - 9mm",alliptvlinks.com SERIE - 9MM SÃO PAULO DUB S02 E07
+http://boxiptv.club:8080/series/josecarlos/123456/57798.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - TIMELESS DUB S02 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bXpGjoptCvLZqSSv2bgvLNmGxyG_small.jpg"group-title="SERIE - Timeless",alliptvlinks.com SERIE - TIMELESS DUB S02 E11
+http://boxiptv.club:8080/series/josecarlos/123456/57958.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - TIMELESS DUB S02 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bXpGjoptCvLZqSSv2bgvLNmGxyG_small.jpg"group-title="SERIE - Timeless",alliptvlinks.com SERIE - TIMELESS DUB S02 E12
+http://boxiptv.club:8080/series/josecarlos/123456/57959.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/p2V5fqCq4qMkELXRrnolCBXzYYZ_small.jpg"group-title="SERIE - Escolinha do Professor Raimundo",alliptvlinks.com SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E01
+http://boxiptv.club:8080/series/josecarlos/123456/57960.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/p2V5fqCq4qMkELXRrnolCBXzYYZ_small.jpg"group-title="SERIE - Escolinha do Professor Raimundo",alliptvlinks.com SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E03
+http://boxiptv.club:8080/series/josecarlos/123456/57962.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/p2V5fqCq4qMkELXRrnolCBXzYYZ_small.jpg"group-title="SERIE - Escolinha do Professor Raimundo",alliptvlinks.com SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E04
+http://boxiptv.club:8080/series/josecarlos/123456/57963.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/p2V5fqCq4qMkELXRrnolCBXzYYZ_small.jpg"group-title="SERIE - Escolinha do Professor Raimundo",alliptvlinks.com SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E05
+http://boxiptv.club:8080/series/josecarlos/123456/57964.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/p2V5fqCq4qMkELXRrnolCBXzYYZ_small.jpg"group-title="SERIE - Escolinha do Professor Raimundo",alliptvlinks.com SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E06
+http://boxiptv.club:8080/series/josecarlos/123456/57965.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/p2V5fqCq4qMkELXRrnolCBXzYYZ_small.jpg"group-title="SERIE - Escolinha do Professor Raimundo",alliptvlinks.com SERIE - ESCOLINHA DO PROFESSOR RAIMUNDO DUB S01 E07
+http://boxiptv.club:8080/series/josecarlos/123456/57966.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MARTE DUB S01 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/e1iWYZGZrX5bI2aRJjX51mn2o2X_small.jpg"group-title="SERIE - Marte",alliptvlinks.com SERIE - MARTE DUB S01 E07
+http://boxiptv.club:8080/series/josecarlos/123456/58056.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E52"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E52
+http://boxiptv.club:8080/series/josecarlos/123456/58549.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E53"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E53
+http://boxiptv.club:8080/series/josecarlos/123456/58550.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E54"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E54
+http://boxiptv.club:8080/series/josecarlos/123456/58551.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E55"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E55
+http://boxiptv.club:8080/series/josecarlos/123456/58552.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E56"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E56
+http://boxiptv.club:8080/series/josecarlos/123456/58553.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E57"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E57
+http://boxiptv.club:8080/series/josecarlos/123456/58554.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E58"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E58
+http://boxiptv.club:8080/series/josecarlos/123456/58555.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E59"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E59
+http://boxiptv.club:8080/series/josecarlos/123456/58556.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E60"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E60
+http://boxiptv.club:8080/series/josecarlos/123456/58557.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E61"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E61
+http://boxiptv.club:8080/series/josecarlos/123456/58558.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E62"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E62
+http://boxiptv.club:8080/series/josecarlos/123456/58559.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E63"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E63
+http://boxiptv.club:8080/series/josecarlos/123456/58560.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E64"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E64
+http://boxiptv.club:8080/series/josecarlos/123456/58561.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E65"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E65
+http://boxiptv.club:8080/series/josecarlos/123456/58562.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E66"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E66
+http://boxiptv.club:8080/series/josecarlos/123456/58563.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E67"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E67
+http://boxiptv.club:8080/series/josecarlos/123456/58564.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E68"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E68
+http://boxiptv.club:8080/series/josecarlos/123456/58565.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E69"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E69
+http://boxiptv.club:8080/series/josecarlos/123456/58566.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E70"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E70
+http://boxiptv.club:8080/series/josecarlos/123456/58567.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E71"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E71
+http://boxiptv.club:8080/series/josecarlos/123456/58568.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E72"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E72
+http://boxiptv.club:8080/series/josecarlos/123456/58569.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E73"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E73
+http://boxiptv.club:8080/series/josecarlos/123456/58570.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E74"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E74
+http://boxiptv.club:8080/series/josecarlos/123456/58571.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E75"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E75
+http://boxiptv.club:8080/series/josecarlos/123456/58572.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E76"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E76
+http://boxiptv.club:8080/series/josecarlos/123456/58573.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E77"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E77
+http://boxiptv.club:8080/series/josecarlos/123456/58574.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E78"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E78
+http://boxiptv.club:8080/series/josecarlos/123456/58575.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E79"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E79
+http://boxiptv.club:8080/series/josecarlos/123456/58576.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E80"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E80
+http://boxiptv.club:8080/series/josecarlos/123456/58577.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E81"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E81
+http://boxiptv.club:8080/series/josecarlos/123456/58578.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E82"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E82
+http://boxiptv.club:8080/series/josecarlos/123456/58579.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E83"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E83
+http://boxiptv.club:8080/series/josecarlos/123456/58580.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E84"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E84
+http://boxiptv.club:8080/series/josecarlos/123456/58581.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E85"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E85
+http://boxiptv.club:8080/series/josecarlos/123456/58582.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E86"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E86
+http://boxiptv.club:8080/series/josecarlos/123456/58583.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E87"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E87
+http://boxiptv.club:8080/series/josecarlos/123456/58584.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E88"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E88
+http://boxiptv.club:8080/series/josecarlos/123456/58585.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E89"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E89
+http://boxiptv.club:8080/series/josecarlos/123456/58586.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E90"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E90
+http://boxiptv.club:8080/series/josecarlos/123456/58587.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E91"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E91
+http://boxiptv.club:8080/series/josecarlos/123456/58588.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E92"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E92
+http://boxiptv.club:8080/series/josecarlos/123456/58589.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E93"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E93
+http://boxiptv.club:8080/series/josecarlos/123456/58590.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E94"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E94
+http://boxiptv.club:8080/series/josecarlos/123456/58591.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E95"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E95
+http://boxiptv.club:8080/series/josecarlos/123456/58592.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E96"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E96
+http://boxiptv.club:8080/series/josecarlos/123456/58593.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E97"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E97
+http://boxiptv.club:8080/series/josecarlos/123456/58594.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E98"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E98
+http://boxiptv.club:8080/series/josecarlos/123456/58595.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E99"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E99
+http://boxiptv.club:8080/series/josecarlos/123456/58596.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E100"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E100
+http://boxiptv.club:8080/series/josecarlos/123456/58597.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E101"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E101
+http://boxiptv.club:8080/series/josecarlos/123456/58598.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E102"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E102
+http://boxiptv.club:8080/series/josecarlos/123456/58599.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E103"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E103
+http://boxiptv.club:8080/series/josecarlos/123456/58600.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E104"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E104
+http://boxiptv.club:8080/series/josecarlos/123456/58601.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E105"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E105
+http://boxiptv.club:8080/series/josecarlos/123456/58602.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E106"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E106
+http://boxiptv.club:8080/series/josecarlos/123456/58603.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E107"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E107
+http://boxiptv.club:8080/series/josecarlos/123456/58604.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E108"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E108
+http://boxiptv.club:8080/series/josecarlos/123456/58605.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E109"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E109
+http://boxiptv.club:8080/series/josecarlos/123456/58606.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E110"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E110
+http://boxiptv.club:8080/series/josecarlos/123456/58607.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E111"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E111
+http://boxiptv.club:8080/series/josecarlos/123456/58608.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E112"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E112
+http://boxiptv.club:8080/series/josecarlos/123456/58609.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E113"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E113
+http://boxiptv.club:8080/series/josecarlos/123456/58610.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E114"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E114
+http://boxiptv.club:8080/series/josecarlos/123456/58611.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E115"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E115
+http://boxiptv.club:8080/series/josecarlos/123456/58612.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E116"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E116
+http://boxiptv.club:8080/series/josecarlos/123456/58613.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E117"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E117
+http://boxiptv.club:8080/series/josecarlos/123456/58614.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E118"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E118
+http://boxiptv.club:8080/series/josecarlos/123456/58615.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E119"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E119
+http://boxiptv.club:8080/series/josecarlos/123456/58616.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E120"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E120
+http://boxiptv.club:8080/series/josecarlos/123456/58617.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E121"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E121
+http://boxiptv.club:8080/series/josecarlos/123456/58618.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E122"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E122
+http://boxiptv.club:8080/series/josecarlos/123456/58619.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E123"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E123
+http://boxiptv.club:8080/series/josecarlos/123456/58620.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E124"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E124
+http://boxiptv.club:8080/series/josecarlos/123456/58621.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E125"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E125
+http://boxiptv.club:8080/series/josecarlos/123456/58622.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E126"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E126
+http://boxiptv.club:8080/series/josecarlos/123456/58623.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E127"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E127
+http://boxiptv.club:8080/series/josecarlos/123456/58624.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E128"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E128
+http://boxiptv.club:8080/series/josecarlos/123456/58625.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E129"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E129
+http://boxiptv.club:8080/series/josecarlos/123456/58626.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E130"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E130
+http://boxiptv.club:8080/series/josecarlos/123456/58627.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E131"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E131
+http://boxiptv.club:8080/series/josecarlos/123456/58628.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E132"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E132
+http://boxiptv.club:8080/series/josecarlos/123456/58629.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E133"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E133
+http://boxiptv.club:8080/series/josecarlos/123456/58630.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E134"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E134
+http://boxiptv.club:8080/series/josecarlos/123456/58631.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E135"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E135
+http://boxiptv.club:8080/series/josecarlos/123456/58632.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E136"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E136
+http://boxiptv.club:8080/series/josecarlos/123456/58633.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E137"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E137
+http://boxiptv.club:8080/series/josecarlos/123456/58634.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E138"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E138
+http://boxiptv.club:8080/series/josecarlos/123456/58635.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E139"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E139
+http://boxiptv.club:8080/series/josecarlos/123456/58636.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E140"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E140
+http://boxiptv.club:8080/series/josecarlos/123456/58637.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E141"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E141
+http://boxiptv.club:8080/series/josecarlos/123456/58638.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E142"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E142
+http://boxiptv.club:8080/series/josecarlos/123456/58639.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E143"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E143
+http://boxiptv.club:8080/series/josecarlos/123456/58640.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E144"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E144
+http://boxiptv.club:8080/series/josecarlos/123456/58641.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E145"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E145
+http://boxiptv.club:8080/series/josecarlos/123456/58642.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E146"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E146
+http://boxiptv.club:8080/series/josecarlos/123456/58643.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E147"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E147
+http://boxiptv.club:8080/series/josecarlos/123456/58644.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E148"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E148
+http://boxiptv.club:8080/series/josecarlos/123456/58645.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E149"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E149
+http://boxiptv.club:8080/series/josecarlos/123456/58646.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E150"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E150
+http://boxiptv.club:8080/series/josecarlos/123456/58647.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E151"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E151
+http://boxiptv.club:8080/series/josecarlos/123456/58648.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E152"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E152
+http://boxiptv.club:8080/series/josecarlos/123456/58649.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E153"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E153
+http://boxiptv.club:8080/series/josecarlos/123456/58650.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E154"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E154
+http://boxiptv.club:8080/series/josecarlos/123456/58651.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E155"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E155
+http://boxiptv.club:8080/series/josecarlos/123456/58652.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E156"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E156
+http://boxiptv.club:8080/series/josecarlos/123456/58653.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E157"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E157
+http://boxiptv.club:8080/series/josecarlos/123456/58654.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E158"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E158
+http://boxiptv.club:8080/series/josecarlos/123456/58655.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E159"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E159
+http://boxiptv.club:8080/series/josecarlos/123456/58656.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E160"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E160
+http://boxiptv.club:8080/series/josecarlos/123456/58657.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E161"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E161
+http://boxiptv.club:8080/series/josecarlos/123456/58658.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E162"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E162
+http://boxiptv.club:8080/series/josecarlos/123456/58659.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E163"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E163
+http://boxiptv.club:8080/series/josecarlos/123456/58660.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E164"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E164
+http://boxiptv.club:8080/series/josecarlos/123456/58661.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E165"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E165
+http://boxiptv.club:8080/series/josecarlos/123456/58662.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E166"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E166
+http://boxiptv.club:8080/series/josecarlos/123456/58663.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E167"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E167
+http://boxiptv.club:8080/series/josecarlos/123456/58664.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E168"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E168
+http://boxiptv.club:8080/series/josecarlos/123456/58665.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E169"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E169
+http://boxiptv.club:8080/series/josecarlos/123456/58666.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E170"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E170
+http://boxiptv.club:8080/series/josecarlos/123456/58667.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E171"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E171
+http://boxiptv.club:8080/series/josecarlos/123456/58668.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E172"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E172
+http://boxiptv.club:8080/series/josecarlos/123456/58669.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E173"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E173
+http://boxiptv.club:8080/series/josecarlos/123456/58670.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E174"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E174
+http://boxiptv.club:8080/series/josecarlos/123456/58671.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E175"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E175
+http://boxiptv.club:8080/series/josecarlos/123456/58672.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E176"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E176
+http://boxiptv.club:8080/series/josecarlos/123456/58673.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E177"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E177
+http://boxiptv.club:8080/series/josecarlos/123456/58674.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E178"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E178
+http://boxiptv.club:8080/series/josecarlos/123456/58675.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E179"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E179
+http://boxiptv.club:8080/series/josecarlos/123456/58676.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E180"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E180
+http://boxiptv.club:8080/series/josecarlos/123456/58677.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E181"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E181
+http://boxiptv.club:8080/series/josecarlos/123456/58678.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E182"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E182
+http://boxiptv.club:8080/series/josecarlos/123456/58679.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E183"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E183
+http://boxiptv.club:8080/series/josecarlos/123456/58680.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E184"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E184
+http://boxiptv.club:8080/series/josecarlos/123456/58681.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E185"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E185
+http://boxiptv.club:8080/series/josecarlos/123456/58682.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E186"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E186
+http://boxiptv.club:8080/series/josecarlos/123456/58683.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E187"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E187
+http://boxiptv.club:8080/series/josecarlos/123456/58684.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E188"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E188
+http://boxiptv.club:8080/series/josecarlos/123456/58685.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E189"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E189
+http://boxiptv.club:8080/series/josecarlos/123456/58686.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E190"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E190
+http://boxiptv.club:8080/series/josecarlos/123456/58687.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - JESUS DUB S01 E191"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/uyLOVAfK1XJxdW6dfQYTKzsU0Ju_small.jpg"group-title="SERIE - Jesus (Novela 2018) ",alliptvlinks.com SERIE - JESUS DUB S01 E191
+http://boxiptv.club:8080/series/josecarlos/123456/58688.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O NEGOCIO DUB S03 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/mgPG7iWLy3IFUNj4BSLqxB1D6JH_small.jpg"group-title="SERIE - O Negocio",alliptvlinks.com SERIE - O NEGOCIO DUB S03 E02
+http://boxiptv.club:8080/series/josecarlos/123456/58689.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O SEGREDO DUB S01 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xrf927BtECum3TSYH5q7EOVoPL9_small.jpg"group-title="SERIE - O Segredo",alliptvlinks.com SERIE - O SEGREDO DUB S01 E04
+http://boxiptv.club:8080/series/josecarlos/123456/59260.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O SEGREDO DUB S01 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xrf927BtECum3TSYH5q7EOVoPL9_small.jpg"group-title="SERIE - O Segredo",alliptvlinks.com SERIE - O SEGREDO DUB S01 E05
+http://boxiptv.club:8080/series/josecarlos/123456/59261.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O SEGREDO DUB S01 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xrf927BtECum3TSYH5q7EOVoPL9_small.jpg"group-title="SERIE - O Segredo",alliptvlinks.com SERIE - O SEGREDO DUB S01 E06
+http://boxiptv.club:8080/series/josecarlos/123456/59262.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O SEGREDO DUB S01 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xrf927BtECum3TSYH5q7EOVoPL9_small.jpg"group-title="SERIE - O Segredo",alliptvlinks.com SERIE - O SEGREDO DUB S01 E07
+http://boxiptv.club:8080/series/josecarlos/123456/59263.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O SEGREDO DUB S01 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xrf927BtECum3TSYH5q7EOVoPL9_small.jpg"group-title="SERIE - O Segredo",alliptvlinks.com SERIE - O SEGREDO DUB S01 E08
+http://boxiptv.club:8080/series/josecarlos/123456/59264.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O SEGREDO DUB S01 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xrf927BtECum3TSYH5q7EOVoPL9_small.jpg"group-title="SERIE - O Segredo",alliptvlinks.com SERIE - O SEGREDO DUB S01 E09
+http://boxiptv.club:8080/series/josecarlos/123456/59265.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O SEGREDO DUB S01 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xrf927BtECum3TSYH5q7EOVoPL9_small.jpg"group-title="SERIE - O Segredo",alliptvlinks.com SERIE - O SEGREDO DUB S01 E10
+http://boxiptv.club:8080/series/josecarlos/123456/59266.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - UMA FAMÍLIA DA PESADA DUB S08 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/n3UBzIx28m3FpC2EDwVJIjvPxnl_small.jpg"group-title="SERIE - Uma Familia da Pesada",alliptvlinks.com SERIE - UMA FAMÍLIA DA PESADA DUB S08 E21
+http://boxiptv.club:8080/series/josecarlos/123456/59672.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E01
+http://boxiptv.club:8080/series/josecarlos/123456/60106.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E02
+http://boxiptv.club:8080/series/josecarlos/123456/60107.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E03
+http://boxiptv.club:8080/series/josecarlos/123456/60108.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E04
+http://boxiptv.club:8080/series/josecarlos/123456/60109.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E05
+http://boxiptv.club:8080/series/josecarlos/123456/60110.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E06
+http://boxiptv.club:8080/series/josecarlos/123456/60111.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E07
+http://boxiptv.club:8080/series/josecarlos/123456/60112.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E08
+http://boxiptv.club:8080/series/josecarlos/123456/60113.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E09
+http://boxiptv.club:8080/series/josecarlos/123456/60114.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S00 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S00 E10
+http://boxiptv.club:8080/series/josecarlos/123456/60118.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E01
+http://boxiptv.club:8080/series/josecarlos/123456/59910.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E02
+http://boxiptv.club:8080/series/josecarlos/123456/59911.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E03
+http://boxiptv.club:8080/series/josecarlos/123456/59912.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E04
+http://boxiptv.club:8080/series/josecarlos/123456/59913.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E05
+http://boxiptv.club:8080/series/josecarlos/123456/59914.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E06
+http://boxiptv.club:8080/series/josecarlos/123456/59915.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E07
+http://boxiptv.club:8080/series/josecarlos/123456/59916.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E08
+http://boxiptv.club:8080/series/josecarlos/123456/59917.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E09
+http://boxiptv.club:8080/series/josecarlos/123456/59918.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E10
+http://boxiptv.club:8080/series/josecarlos/123456/59919.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E11
+http://boxiptv.club:8080/series/josecarlos/123456/59920.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E12
+http://boxiptv.club:8080/series/josecarlos/123456/59921.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E13
+http://boxiptv.club:8080/series/josecarlos/123456/59922.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E14
+http://boxiptv.club:8080/series/josecarlos/123456/59923.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E15
+http://boxiptv.club:8080/series/josecarlos/123456/59924.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E16
+http://boxiptv.club:8080/series/josecarlos/123456/59925.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E17
+http://boxiptv.club:8080/series/josecarlos/123456/59926.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E18
+http://boxiptv.club:8080/series/josecarlos/123456/59927.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E19
+http://boxiptv.club:8080/series/josecarlos/123456/59928.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E20
+http://boxiptv.club:8080/series/josecarlos/123456/59929.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E21
+http://boxiptv.club:8080/series/josecarlos/123456/59930.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E22
+http://boxiptv.club:8080/series/josecarlos/123456/59931.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S02 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S02 E23
+http://boxiptv.club:8080/series/josecarlos/123456/59932.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E01
+http://boxiptv.club:8080/series/josecarlos/123456/59933.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E02
+http://boxiptv.club:8080/series/josecarlos/123456/59934.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E03
+http://boxiptv.club:8080/series/josecarlos/123456/59935.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E04
+http://boxiptv.club:8080/series/josecarlos/123456/59936.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E05
+http://boxiptv.club:8080/series/josecarlos/123456/59937.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E06
+http://boxiptv.club:8080/series/josecarlos/123456/59938.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E07
+http://boxiptv.club:8080/series/josecarlos/123456/59939.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E08
+http://boxiptv.club:8080/series/josecarlos/123456/59940.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E09
+http://boxiptv.club:8080/series/josecarlos/123456/59941.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E10
+http://boxiptv.club:8080/series/josecarlos/123456/59942.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E11
+http://boxiptv.club:8080/series/josecarlos/123456/59943.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E12
+http://boxiptv.club:8080/series/josecarlos/123456/59944.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E13
+http://boxiptv.club:8080/series/josecarlos/123456/59945.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E14
+http://boxiptv.club:8080/series/josecarlos/123456/59946.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E15
+http://boxiptv.club:8080/series/josecarlos/123456/59947.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E16
+http://boxiptv.club:8080/series/josecarlos/123456/59948.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E17
+http://boxiptv.club:8080/series/josecarlos/123456/59949.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E18
+http://boxiptv.club:8080/series/josecarlos/123456/59950.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E19
+http://boxiptv.club:8080/series/josecarlos/123456/59951.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E20
+http://boxiptv.club:8080/series/josecarlos/123456/59952.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E21
+http://boxiptv.club:8080/series/josecarlos/123456/59953.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E22
+http://boxiptv.club:8080/series/josecarlos/123456/59954.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E23
+http://boxiptv.club:8080/series/josecarlos/123456/59955.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE- HAWAII FIVE-0 DUB S03 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/gEbD5od43txhKQ7BaNCjN7q4txR_small.jpg"group-title="SERIE - Hawaii Five-0",alliptvlinks.com SERIE- HAWAII FIVE-0 DUB S03 E24
+http://boxiptv.club:8080/series/josecarlos/123456/59956.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - STATION 19 DUB S03 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/apvr0s7sLvlPgNGtfuvM5EOJJMO_small.jpg"group-title="SERIE - Station 19",alliptvlinks.com SERIE - STATION 19 DUB S03 E01
+http://boxiptv.club:8080/series/josecarlos/123456/60394.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - STATION 19 DUB S19 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/apvr0s7sLvlPgNGtfuvM5EOJJMO_small.jpg"group-title="SERIE - Station 19",alliptvlinks.com SERIE - STATION 19 DUB S19 E01
+http://boxiptv.club:8080/series/josecarlos/123456/60395.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - STATION 19 DUB S19 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/apvr0s7sLvlPgNGtfuvM5EOJJMO_small.jpg"group-title="SERIE - Station 19",alliptvlinks.com SERIE - STATION 19 DUB S19 E02
+http://boxiptv.club:8080/series/josecarlos/123456/60396.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E01
+http://boxiptv.club:8080/series/josecarlos/123456/60893.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E02
+http://boxiptv.club:8080/series/josecarlos/123456/60894.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E03
+http://boxiptv.club:8080/series/josecarlos/123456/60895.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E04
+http://boxiptv.club:8080/series/josecarlos/123456/60896.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E05
+http://boxiptv.club:8080/series/josecarlos/123456/60897.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E06
+http://boxiptv.club:8080/series/josecarlos/123456/60898.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E07
+http://boxiptv.club:8080/series/josecarlos/123456/60899.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E08
+http://boxiptv.club:8080/series/josecarlos/123456/60900.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E09
+http://boxiptv.club:8080/series/josecarlos/123456/60901.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E10
+http://boxiptv.club:8080/series/josecarlos/123456/60902.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E11
+http://boxiptv.club:8080/series/josecarlos/123456/60903.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E12
+http://boxiptv.club:8080/series/josecarlos/123456/60904.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E13
+http://boxiptv.club:8080/series/josecarlos/123456/60905.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E14
+http://boxiptv.club:8080/series/josecarlos/123456/60906.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E15
+http://boxiptv.club:8080/series/josecarlos/123456/60907.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E16
+http://boxiptv.club:8080/series/josecarlos/123456/60908.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E17
+http://boxiptv.club:8080/series/josecarlos/123456/60909.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E18
+http://boxiptv.club:8080/series/josecarlos/123456/60910.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E19
+http://boxiptv.club:8080/series/josecarlos/123456/60911.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E20
+http://boxiptv.club:8080/series/josecarlos/123456/60912.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E21
+http://boxiptv.club:8080/series/josecarlos/123456/60913.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E22
+http://boxiptv.club:8080/series/josecarlos/123456/60914.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E23
+http://boxiptv.club:8080/series/josecarlos/123456/60915.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E24
+http://boxiptv.club:8080/series/josecarlos/123456/60916.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GAROTA DA MOTO DUB S02 E25"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9QQsXr8d67IjUgynt3B7sN9D94S_small.jpg"group-title="SERIE - A Garota da Moto",alliptvlinks.com SERIE - A GAROTA DA MOTO DUB S02 E25
+http://boxiptv.club:8080/series/josecarlos/123456/60917.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BLEACH DUB S01 E194"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3RUtEMburuZkk1fbD1nS3bYrJPh_small.jpg"group-title="SERIE - Bleach",alliptvlinks.com SERIE - BLEACH DUB S01 E194
+http://boxiptv.club:8080/series/josecarlos/123456/61111.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BLEACH DUB S01 E195"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3RUtEMburuZkk1fbD1nS3bYrJPh_small.jpg"group-title="SERIE - Bleach",alliptvlinks.com SERIE - BLEACH DUB S01 E195
+http://boxiptv.club:8080/series/josecarlos/123456/61112.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BLEACH DUB S01 E196"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3RUtEMburuZkk1fbD1nS3bYrJPh_small.jpg"group-title="SERIE - Bleach",alliptvlinks.com SERIE - BLEACH DUB S01 E196
+http://boxiptv.club:8080/series/josecarlos/123456/61113.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BLEACH DUB S01 E197"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3RUtEMburuZkk1fbD1nS3bYrJPh_small.jpg"group-title="SERIE - Bleach",alliptvlinks.com SERIE - BLEACH DUB S01 E197
+http://boxiptv.club:8080/series/josecarlos/123456/61114.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BLEACH DUB S01 E198"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3RUtEMburuZkk1fbD1nS3bYrJPh_small.jpg"group-title="SERIE - Bleach",alliptvlinks.com SERIE - BLEACH DUB S01 E198
+http://boxiptv.club:8080/series/josecarlos/123456/61115.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BLEACH DUB S01 E199"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3RUtEMburuZkk1fbD1nS3bYrJPh_small.jpg"group-title="SERIE - Bleach",alliptvlinks.com SERIE - BLEACH DUB S01 E199
+http://boxiptv.club:8080/series/josecarlos/123456/61116.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - BLEACH DUB S01 E200"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3RUtEMburuZkk1fbD1nS3bYrJPh_small.jpg"group-title="SERIE - Bleach",alliptvlinks.com SERIE - BLEACH DUB S01 E200
+http://boxiptv.club:8080/series/josecarlos/123456/61117.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E21
+http://boxiptv.club:8080/series/josecarlos/123456/61534.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E22
+http://boxiptv.club:8080/series/josecarlos/123456/61535.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E23
+http://boxiptv.club:8080/series/josecarlos/123456/61536.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E24
+http://boxiptv.club:8080/series/josecarlos/123456/61537.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E25"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E25
+http://boxiptv.club:8080/series/josecarlos/123456/61538.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E26"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E26
+http://boxiptv.club:8080/series/josecarlos/123456/61539.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E27"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E27
+http://boxiptv.club:8080/series/josecarlos/123456/61540.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E28"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E28
+http://boxiptv.club:8080/series/josecarlos/123456/61541.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E29"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E29
+http://boxiptv.club:8080/series/josecarlos/123456/61542.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E30"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E30
+http://boxiptv.club:8080/series/josecarlos/123456/61543.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E31"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E31
+http://boxiptv.club:8080/series/josecarlos/123456/61544.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E32"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E32
+http://boxiptv.club:8080/series/josecarlos/123456/61545.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E33"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E33
+http://boxiptv.club:8080/series/josecarlos/123456/61546.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E34"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E34
+http://boxiptv.club:8080/series/josecarlos/123456/61547.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E35"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E35
+http://boxiptv.club:8080/series/josecarlos/123456/61548.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MACHINEMAN DUB S01 E36"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/q3H1a5Z79H6BkpgVMJSnTQXCbOY_small.jpg"group-title="SERIE - Machineman",alliptvlinks.com SERIE - MACHINEMAN DUB S01 E36
+http://boxiptv.club:8080/series/josecarlos/123456/61549.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SNOWFALL DUB S03 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xeSNi6T65ODCUDWOLnI1OJ6RPDp_small.jpg"group-title="SERIE - Snowfall",alliptvlinks.com SERIE - SNOWFALL DUB S03 E09
+http://boxiptv.club:8080/series/josecarlos/123456/61822.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SNOWFALL DUB S03 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xeSNi6T65ODCUDWOLnI1OJ6RPDp_small.jpg"group-title="SERIE - Snowfall",alliptvlinks.com SERIE - SNOWFALL DUB S03 E10
+http://boxiptv.club:8080/series/josecarlos/123456/61823.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/16w36qKiM6R6nyEuIhqhKqT7fbv_small.jpg"group-title="SERIE - Trolls: O ritmo continua!",alliptvlinks.com SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E01
+http://boxiptv.club:8080/series/josecarlos/123456/63040.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/16w36qKiM6R6nyEuIhqhKqT7fbv_small.jpg"group-title="SERIE - Trolls: O ritmo continua!",alliptvlinks.com SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E02
+http://boxiptv.club:8080/series/josecarlos/123456/63041.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/16w36qKiM6R6nyEuIhqhKqT7fbv_small.jpg"group-title="SERIE - Trolls: O ritmo continua!",alliptvlinks.com SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E03
+http://boxiptv.club:8080/series/josecarlos/123456/63042.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/16w36qKiM6R6nyEuIhqhKqT7fbv_small.jpg"group-title="SERIE - Trolls: O ritmo continua!",alliptvlinks.com SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E04
+http://boxiptv.club:8080/series/josecarlos/123456/63043.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/16w36qKiM6R6nyEuIhqhKqT7fbv_small.jpg"group-title="SERIE - Trolls: O ritmo continua!",alliptvlinks.com SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E05
+http://boxiptv.club:8080/series/josecarlos/123456/63044.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/16w36qKiM6R6nyEuIhqhKqT7fbv_small.jpg"group-title="SERIE - Trolls: O ritmo continua!",alliptvlinks.com SERIE - TROLLS: O RITMO CONTINUA! DUB S06 E06
+http://boxiptv.club:8080/series/josecarlos/123456/63045.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MAUÁ O PRIMEIRO GIGANTE DUB S01 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/w1ZNJQYS3nVuNWXLj0FTR0MkkcS_small.jpg"group-title="SERIE - Mauá O Primeiro Gigante",alliptvlinks.com SERIE - MAUÁ O PRIMEIRO GIGANTE DUB S01 E01
+http://boxiptv.club:8080/series/josecarlos/123456/63419.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - MAUÁ O PRIMEIRO GIGANTE DUB S01 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/w1ZNJQYS3nVuNWXLj0FTR0MkkcS_small.jpg"group-title="SERIE - Mauá O Primeiro Gigante",alliptvlinks.com SERIE - MAUÁ O PRIMEIRO GIGANTE DUB S01 E02
+http://boxiptv.club:8080/series/josecarlos/123456/63420.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E01
+http://boxiptv.club:8080/series/josecarlos/123456/63527.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E02
+http://boxiptv.club:8080/series/josecarlos/123456/63528.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E03
+http://boxiptv.club:8080/series/josecarlos/123456/63529.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E04
+http://boxiptv.club:8080/series/josecarlos/123456/63530.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E05
+http://boxiptv.club:8080/series/josecarlos/123456/63531.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E06
+http://boxiptv.club:8080/series/josecarlos/123456/63532.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E07
+http://boxiptv.club:8080/series/josecarlos/123456/63533.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E08
+http://boxiptv.club:8080/series/josecarlos/123456/63534.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E09
+http://boxiptv.club:8080/series/josecarlos/123456/63535.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E10
+http://boxiptv.club:8080/series/josecarlos/123456/63536.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E11
+http://boxiptv.club:8080/series/josecarlos/123456/63537.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E12
+http://boxiptv.club:8080/series/josecarlos/123456/63538.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E13
+http://boxiptv.club:8080/series/josecarlos/123456/63539.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E14
+http://boxiptv.club:8080/series/josecarlos/123456/63540.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E15
+http://boxiptv.club:8080/series/josecarlos/123456/63541.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E16
+http://boxiptv.club:8080/series/josecarlos/123456/63542.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E17
+http://boxiptv.club:8080/series/josecarlos/123456/63543.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E18
+http://boxiptv.club:8080/series/josecarlos/123456/63544.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E19
+http://boxiptv.club:8080/series/josecarlos/123456/63545.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E20
+http://boxiptv.club:8080/series/josecarlos/123456/63546.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E21
+http://boxiptv.club:8080/series/josecarlos/123456/63547.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E22
+http://boxiptv.club:8080/series/josecarlos/123456/63548.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E23
+http://boxiptv.club:8080/series/josecarlos/123456/63549.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E24
+http://boxiptv.club:8080/series/josecarlos/123456/63550.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E25"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E25
+http://boxiptv.club:8080/series/josecarlos/123456/63551.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E26"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E26
+http://boxiptv.club:8080/series/josecarlos/123456/63552.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E27"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E27
+http://boxiptv.club:8080/series/josecarlos/123456/63553.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E28"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E28
+http://boxiptv.club:8080/series/josecarlos/123456/63554.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E29"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E29
+http://boxiptv.club:8080/series/josecarlos/123456/63555.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E30"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E30
+http://boxiptv.club:8080/series/josecarlos/123456/63556.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E31"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E31
+http://boxiptv.club:8080/series/josecarlos/123456/63557.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E32"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E32
+http://boxiptv.club:8080/series/josecarlos/123456/63558.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E33"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E33
+http://boxiptv.club:8080/series/josecarlos/123456/63559.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E34"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E34
+http://boxiptv.club:8080/series/josecarlos/123456/63560.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E35"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E35
+http://boxiptv.club:8080/series/josecarlos/123456/63561.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E36"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E36
+http://boxiptv.club:8080/series/josecarlos/123456/63562.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E37"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E37
+http://boxiptv.club:8080/series/josecarlos/123456/63563.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E38"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E38
+http://boxiptv.club:8080/series/josecarlos/123456/63564.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E39"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E39
+http://boxiptv.club:8080/series/josecarlos/123456/63565.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - VAI QUE COLA DUB S03 E40"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9UXpeKei466CCcNAl3d2XrBTjzO_small.jpg"group-title="SERIE - Vai Que Cola",alliptvlinks.com SERIE - VAI QUE COLA DUB S03 E40
+http://boxiptv.club:8080/series/josecarlos/123456/63566.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - PRETTY LITTLE LIARS DUB S04 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/vC324sdfcS313vh9QXwijLIHPJp_small.jpg"group-title="SERIE - Pretty Little Liars",alliptvlinks.com SERIE - PRETTY LITTLE LIARS DUB S04 E01
+http://boxiptv.club:8080/series/josecarlos/123456/64040.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E01
+http://boxiptv.club:8080/series/josecarlos/123456/64586.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E02
+http://boxiptv.club:8080/series/josecarlos/123456/64587.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E03
+http://boxiptv.club:8080/series/josecarlos/123456/64588.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E04
+http://boxiptv.club:8080/series/josecarlos/123456/64589.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E05
+http://boxiptv.club:8080/series/josecarlos/123456/64590.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E06
+http://boxiptv.club:8080/series/josecarlos/123456/64591.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E07
+http://boxiptv.club:8080/series/josecarlos/123456/64592.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E08
+http://boxiptv.club:8080/series/josecarlos/123456/64593.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E09
+http://boxiptv.club:8080/series/josecarlos/123456/64594.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E10
+http://boxiptv.club:8080/series/josecarlos/123456/64595.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SOB PRESSÃO DUB S03 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bnPqMu7zTC6YsMMRmbdtjK6tGB9_small.jpg"group-title="SERIE - Sob Pressão",alliptvlinks.com SERIE - SOB PRESSÃO DUB S03 E11
+http://boxiptv.club:8080/series/josecarlos/123456/64596.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GUERRA DO BRASIL DUB S01 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xR9gvxLWqrGEa1JWXJfJ4tFRL82_small.jpg"group-title="SERIE - A Guerra Do Brasil",alliptvlinks.com SERIE - A GUERRA DO BRASIL DUB S01 E02
+http://boxiptv.club:8080/series/josecarlos/123456/64722.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GUERRA DO BRASIL DUB S01 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xR9gvxLWqrGEa1JWXJfJ4tFRL82_small.jpg"group-title="SERIE - A Guerra Do Brasil",alliptvlinks.com SERIE - A GUERRA DO BRASIL DUB S01 E03
+http://boxiptv.club:8080/series/josecarlos/123456/64723.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GUERRA DO BRASIL DUB S01 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xR9gvxLWqrGEa1JWXJfJ4tFRL82_small.jpg"group-title="SERIE - A Guerra Do Brasil",alliptvlinks.com SERIE - A GUERRA DO BRASIL DUB S01 E04
+http://boxiptv.club:8080/series/josecarlos/123456/64724.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A GUERRA DO BRASIL DUB S01 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/xR9gvxLWqrGEa1JWXJfJ4tFRL82_small.jpg"group-title="SERIE - A Guerra Do Brasil",alliptvlinks.com SERIE - A GUERRA DO BRASIL DUB S01 E05
+http://boxiptv.club:8080/series/josecarlos/123456/64725.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - DINASTIA DUB S01 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bKBTf22IDwD39GbpQ6clYQ2WCtA_small.jpg"group-title="SERIE - Dinastia",alliptvlinks.com SERIE - DINASTIA DUB S01 E16
+http://boxiptv.club:8080/series/josecarlos/123456/64907.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - DINASTIA DUB S01 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bKBTf22IDwD39GbpQ6clYQ2WCtA_small.jpg"group-title="SERIE - Dinastia",alliptvlinks.com SERIE - DINASTIA DUB S01 E17
+http://boxiptv.club:8080/series/josecarlos/123456/64908.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - DINASTIA DUB S01 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bKBTf22IDwD39GbpQ6clYQ2WCtA_small.jpg"group-title="SERIE - Dinastia",alliptvlinks.com SERIE - DINASTIA DUB S01 E18
+http://boxiptv.club:8080/series/josecarlos/123456/64909.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - DINASTIA DUB S01 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bKBTf22IDwD39GbpQ6clYQ2WCtA_small.jpg"group-title="SERIE - Dinastia",alliptvlinks.com SERIE - DINASTIA DUB S01 E19
+http://boxiptv.club:8080/series/josecarlos/123456/64910.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - DINASTIA DUB S01 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bKBTf22IDwD39GbpQ6clYQ2WCtA_small.jpg"group-title="SERIE - Dinastia",alliptvlinks.com SERIE - DINASTIA DUB S01 E20
+http://boxiptv.club:8080/series/josecarlos/123456/64933.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - DINASTIA DUB S01 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bKBTf22IDwD39GbpQ6clYQ2WCtA_small.jpg"group-title="SERIE - Dinastia",alliptvlinks.com SERIE - DINASTIA DUB S01 E21
+http://boxiptv.club:8080/series/josecarlos/123456/64934.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - DINASTIA DUB S01 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/bKBTf22IDwD39GbpQ6clYQ2WCtA_small.jpg"group-title="SERIE - Dinastia",alliptvlinks.com SERIE - DINASTIA DUB S01 E22
+http://boxiptv.club:8080/series/josecarlos/123456/64935.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S01 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S01 E10
+http://boxiptv.club:8080/series/josecarlos/123456/64965.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S01 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S01 E11
+http://boxiptv.club:8080/series/josecarlos/123456/64966.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S01 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S01 E12
+http://boxiptv.club:8080/series/josecarlos/123456/64967.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S01 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S01 E13
+http://boxiptv.club:8080/series/josecarlos/123456/64968.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S03 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S03 E16
+http://boxiptv.club:8080/series/josecarlos/123456/65003.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S03 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S03 E17
+http://boxiptv.club:8080/series/josecarlos/123456/65004.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S03 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S03 E18
+http://boxiptv.club:8080/series/josecarlos/123456/65005.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S03 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S03 E19
+http://boxiptv.club:8080/series/josecarlos/123456/65006.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S03 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S03 E20
+http://boxiptv.club:8080/series/josecarlos/123456/65007.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S03 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S03 E21
+http://boxiptv.club:8080/series/josecarlos/123456/65008.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S03 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S03 E22
+http://boxiptv.club:8080/series/josecarlos/123456/65009.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S04 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S04 E13
+http://boxiptv.club:8080/series/josecarlos/123456/65022.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S04 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S04 E14
+http://boxiptv.club:8080/series/josecarlos/123456/65023.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S04 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S04 E15
+http://boxiptv.club:8080/series/josecarlos/123456/65024.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S04 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S04 E16
+http://boxiptv.club:8080/series/josecarlos/123456/65025.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S04 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S04 E17
+http://boxiptv.club:8080/series/josecarlos/123456/65026.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FUTURAMA DUB S04 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/iN0LOeE2JnJpIy4jF7imUjO6jwn_small.jpg"group-title="SERIE - Futurama",alliptvlinks.com SERIE - FUTURAMA DUB S04 E18
+http://boxiptv.club:8080/series/josecarlos/123456/65027.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LARGADOS E PELADOS DUB S02 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/aNUNs4BFRK4eEqS0wwEVbsi2fou_small.jpg"group-title="SERIE - Largados e Pelados",alliptvlinks.com SERIE - LARGADOS E PELADOS DUB S02 E01
+http://boxiptv.club:8080/series/josecarlos/123456/65144.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LARGADOS E PELADOS DUB S02 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/aNUNs4BFRK4eEqS0wwEVbsi2fou_small.jpg"group-title="SERIE - Largados e Pelados",alliptvlinks.com SERIE - LARGADOS E PELADOS DUB S02 E02
+http://boxiptv.club:8080/series/josecarlos/123456/65145.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LARGADOS E PELADOS DUB S02 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/aNUNs4BFRK4eEqS0wwEVbsi2fou_small.jpg"group-title="SERIE - Largados e Pelados",alliptvlinks.com SERIE - LARGADOS E PELADOS DUB S02 E03
+http://boxiptv.club:8080/series/josecarlos/123456/65146.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LARGADOS E PELADOS DUB S02 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/aNUNs4BFRK4eEqS0wwEVbsi2fou_small.jpg"group-title="SERIE - Largados e Pelados",alliptvlinks.com SERIE - LARGADOS E PELADOS DUB S02 E04
+http://boxiptv.club:8080/series/josecarlos/123456/65147.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LARGADOS E PELADOS DUB S02 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/aNUNs4BFRK4eEqS0wwEVbsi2fou_small.jpg"group-title="SERIE - Largados e Pelados",alliptvlinks.com SERIE - LARGADOS E PELADOS DUB S02 E05
+http://boxiptv.club:8080/series/josecarlos/123456/65148.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LARGADOS E PELADOS DUB S02 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/aNUNs4BFRK4eEqS0wwEVbsi2fou_small.jpg"group-title="SERIE - Largados e Pelados",alliptvlinks.com SERIE - LARGADOS E PELADOS DUB S02 E06
+http://boxiptv.club:8080/series/josecarlos/123456/65149.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LARGADOS E PELADOS DUB S02 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/aNUNs4BFRK4eEqS0wwEVbsi2fou_small.jpg"group-title="SERIE - Largados e Pelados",alliptvlinks.com SERIE - LARGADOS E PELADOS DUB S02 E07
+http://boxiptv.club:8080/series/josecarlos/123456/65150.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S03 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S03 E23
+http://boxiptv.club:8080/series/josecarlos/123456/65270.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S04 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S04 E23
+http://boxiptv.club:8080/series/josecarlos/123456/65220.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S04 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S04 E24
+http://boxiptv.club:8080/series/josecarlos/123456/65221.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S04 E25"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S04 E25
+http://boxiptv.club:8080/series/josecarlos/123456/65222.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S05 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S05 E24
+http://boxiptv.club:8080/series/josecarlos/123456/65246.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S05 E25"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S05 E25
+http://boxiptv.club:8080/series/josecarlos/123456/65247.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S16 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S16 E23
+http://boxiptv.club:8080/series/josecarlos/123456/65476.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S17 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S17 E23
+http://boxiptv.club:8080/series/josecarlos/123456/65608.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S18 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S18 E19
+http://boxiptv.club:8080/series/josecarlos/123456/65559.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S18 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S18 E20
+http://boxiptv.club:8080/series/josecarlos/123456/65560.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S18 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S18 E21
+http://boxiptv.club:8080/series/josecarlos/123456/65561.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S19 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S19 E23
+http://boxiptv.club:8080/series/josecarlos/123456/65584.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S19 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S19 E24
+http://boxiptv.club:8080/series/josecarlos/123456/65585.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S20 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S20 E23
+http://boxiptv.club:8080/series/josecarlos/123456/65631.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E01
+http://boxiptv.club:8080/series/josecarlos/123456/65632.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E02
+http://boxiptv.club:8080/series/josecarlos/123456/65633.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E03
+http://boxiptv.club:8080/series/josecarlos/123456/65634.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E04
+http://boxiptv.club:8080/series/josecarlos/123456/65635.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E05
+http://boxiptv.club:8080/series/josecarlos/123456/65636.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E06
+http://boxiptv.club:8080/series/josecarlos/123456/65637.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E07
+http://boxiptv.club:8080/series/josecarlos/123456/65638.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E08
+http://boxiptv.club:8080/series/josecarlos/123456/65639.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E09
+http://boxiptv.club:8080/series/josecarlos/123456/65640.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E10
+http://boxiptv.club:8080/series/josecarlos/123456/65641.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E11
+http://boxiptv.club:8080/series/josecarlos/123456/65642.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E12
+http://boxiptv.club:8080/series/josecarlos/123456/65643.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E13
+http://boxiptv.club:8080/series/josecarlos/123456/65644.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E14
+http://boxiptv.club:8080/series/josecarlos/123456/65645.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E15
+http://boxiptv.club:8080/series/josecarlos/123456/65646.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LEI & ORDEM DUB S21 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/heAQKMNVFOHlXqdiDjcrmTaIZjI_small.jpg"group-title="SERIE - Lei & Ordem",alliptvlinks.com SERIE - LEI & ORDEM DUB S21 E16
+http://boxiptv.club:8080/series/josecarlos/123456/65647.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - THE RESIDENT DUB S03 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/m5E9GrO7cT3zkNQVUQu8C8cS7Tk_small.jpg"group-title="SERIE - The Resident",alliptvlinks.com SERIE - THE RESIDENT DUB S03 E12
+http://boxiptv.club:8080/series/josecarlos/123456/66024.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - NCIS: INVESTIGAÇÃO NAVAL DUB S01 E65"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/11YekasgqE98jRAi1nDY6ojYYup_small.jpg"group-title="SERIE - NCIS: Investigação Naval",alliptvlinks.com SERIE - NCIS: INVESTIGAÇÃO NAVAL DUB S01 E65
+http://boxiptv.club:8080/series/josecarlos/123456/66136.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - UNIDADE 42 DUB S01 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/wu1V250LBGv8VISXoNsC9qKl9qh_small.jpg"group-title="SERIE - Unidade 42",alliptvlinks.com SERIE - UNIDADE 42 DUB S01 E01
+http://boxiptv.club:8080/series/josecarlos/123456/66438.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E02
+http://boxiptv.club:8080/series/josecarlos/123456/66791.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E03
+http://boxiptv.club:8080/series/josecarlos/123456/66792.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E04
+http://boxiptv.club:8080/series/josecarlos/123456/66793.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E05
+http://boxiptv.club:8080/series/josecarlos/123456/66794.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E06
+http://boxiptv.club:8080/series/josecarlos/123456/66795.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E07
+http://boxiptv.club:8080/series/josecarlos/123456/66796.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E08
+http://boxiptv.club:8080/series/josecarlos/123456/66797.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E09
+http://boxiptv.club:8080/series/josecarlos/123456/66798.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S04 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S04 E10
+http://boxiptv.club:8080/series/josecarlos/123456/66799.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S05 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S05 E02
+http://boxiptv.club:8080/series/josecarlos/123456/66801.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S05 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S05 E03
+http://boxiptv.club:8080/series/josecarlos/123456/66802.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S05 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S05 E04
+http://boxiptv.club:8080/series/josecarlos/123456/66803.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S05 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S05 E05
+http://boxiptv.club:8080/series/josecarlos/123456/66804.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S05 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S05 E06
+http://boxiptv.club:8080/series/josecarlos/123456/66805.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S05 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S05 E07
+http://boxiptv.club:8080/series/josecarlos/123456/66806.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - GREENLEAF DUB S05 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4ObrV4ctUCWUw29DUadpIsLR4Iz_small.jpg"group-title="SERIE - Greenleaf",alliptvlinks.com SERIE - GREENLEAF DUB S05 E08
+http://boxiptv.club:8080/series/josecarlos/123456/66807.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - THE THUNDERMANS LEG S04 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/n1WN2dtdqjK8Wow3qLagHLSY8e7_small.jpg"group-title="SERIE - The Thundermans",alliptvlinks.com SERIE - THE THUNDERMANS LEG S04 E12
+http://boxiptv.club:8080/series/josecarlos/123456/66889.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - THE THUNDERMANS LEG S04 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/n1WN2dtdqjK8Wow3qLagHLSY8e7_small.jpg"group-title="SERIE - The Thundermans",alliptvlinks.com SERIE - THE THUNDERMANS LEG S04 E20
+http://boxiptv.club:8080/series/josecarlos/123456/66895.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - THE THUNDERMANS LEG S04 E29"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/n1WN2dtdqjK8Wow3qLagHLSY8e7_small.jpg"group-title="SERIE - The Thundermans",alliptvlinks.com SERIE - THE THUNDERMANS LEG S04 E29
+http://boxiptv.club:8080/series/josecarlos/123456/66904.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - THE THUNDERMANS LEG S04 E30"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/n1WN2dtdqjK8Wow3qLagHLSY8e7_small.jpg"group-title="SERIE - The Thundermans",alliptvlinks.com SERIE - THE THUNDERMANS LEG S04 E30
+http://boxiptv.club:8080/series/josecarlos/123456/66905.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A DIVISÃO DUB S01 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/zMD3mdhkBvxastdWzurZfgmgjaO_small.jpg"group-title="SERIE - A Divisão",alliptvlinks.com SERIE - A DIVISÃO DUB S01 E02
+http://boxiptv.club:8080/series/josecarlos/123456/67006.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A DIVISÃO DUB S01 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/zMD3mdhkBvxastdWzurZfgmgjaO_small.jpg"group-title="SERIE - A Divisão",alliptvlinks.com SERIE - A DIVISÃO DUB S01 E03
+http://boxiptv.club:8080/series/josecarlos/123456/67007.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A DIVISÃO DUB S01 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/zMD3mdhkBvxastdWzurZfgmgjaO_small.jpg"group-title="SERIE - A Divisão",alliptvlinks.com SERIE - A DIVISÃO DUB S01 E04
+http://boxiptv.club:8080/series/josecarlos/123456/67008.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A DIVISÃO DUB S01 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/zMD3mdhkBvxastdWzurZfgmgjaO_small.jpg"group-title="SERIE - A Divisão",alliptvlinks.com SERIE - A DIVISÃO DUB S01 E05
+http://boxiptv.club:8080/series/josecarlos/123456/67009.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - LOST DUB S01 E25"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/4eFhWKobURE7RXN10Z712YhNYqk_small.jpg"group-title="SERIE - Lost",alliptvlinks.com SERIE - LOST DUB S01 E25
+http://boxiptv.club:8080/series/josecarlos/123456/67088.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E01
+http://boxiptv.club:8080/series/josecarlos/123456/67223.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E02
+http://boxiptv.club:8080/series/josecarlos/123456/67224.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E03
+http://boxiptv.club:8080/series/josecarlos/123456/67225.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E04
+http://boxiptv.club:8080/series/josecarlos/123456/67226.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E05
+http://boxiptv.club:8080/series/josecarlos/123456/67227.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E06
+http://boxiptv.club:8080/series/josecarlos/123456/67228.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E07
+http://boxiptv.club:8080/series/josecarlos/123456/67229.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E08
+http://boxiptv.club:8080/series/josecarlos/123456/67230.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E09
+http://boxiptv.club:8080/series/josecarlos/123456/67231.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - OS RONI DUB S02 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/livmfhbo7ho3DWL64oU1I2Vwl3j_small.jpg"group-title="SERIE - Os Roni",alliptvlinks.com SERIE - OS RONI DUB S02 E10
+http://boxiptv.club:8080/series/josecarlos/123456/67232.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - AQUI NA TERRA DUB S02 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cjjcPMvOroLKDa6ndKf0TBdIe2w_small.jpg"group-title="SERIE - Aqui na Terra",alliptvlinks.com SERIE - AQUI NA TERRA DUB S02 E01
+http://boxiptv.club:8080/series/josecarlos/123456/67747.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - AQUI NA TERRA DUB S02 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cjjcPMvOroLKDa6ndKf0TBdIe2w_small.jpg"group-title="SERIE - Aqui na Terra",alliptvlinks.com SERIE - AQUI NA TERRA DUB S02 E02
+http://boxiptv.club:8080/series/josecarlos/123456/67748.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - AQUI NA TERRA DUB S02 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cjjcPMvOroLKDa6ndKf0TBdIe2w_small.jpg"group-title="SERIE - Aqui na Terra",alliptvlinks.com SERIE - AQUI NA TERRA DUB S02 E03
+http://boxiptv.club:8080/series/josecarlos/123456/67749.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - AQUI NA TERRA DUB S02 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cjjcPMvOroLKDa6ndKf0TBdIe2w_small.jpg"group-title="SERIE - Aqui na Terra",alliptvlinks.com SERIE - AQUI NA TERRA DUB S02 E04
+http://boxiptv.club:8080/series/josecarlos/123456/67750.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - AQUI NA TERRA DUB S02 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cjjcPMvOroLKDa6ndKf0TBdIe2w_small.jpg"group-title="SERIE - Aqui na Terra",alliptvlinks.com SERIE - AQUI NA TERRA DUB S02 E05
+http://boxiptv.club:8080/series/josecarlos/123456/67751.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - AQUI NA TERRA DUB S02 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cjjcPMvOroLKDa6ndKf0TBdIe2w_small.jpg"group-title="SERIE - Aqui na Terra",alliptvlinks.com SERIE - AQUI NA TERRA DUB S02 E06
+http://boxiptv.club:8080/series/josecarlos/123456/67752.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - AQUI NA TERRA DUB S02 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cjjcPMvOroLKDa6ndKf0TBdIe2w_small.jpg"group-title="SERIE - Aqui na Terra",alliptvlinks.com SERIE - AQUI NA TERRA DUB S02 E07
+http://boxiptv.club:8080/series/josecarlos/123456/67753.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - AQUI NA TERRA DUB S02 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/cjjcPMvOroLKDa6ndKf0TBdIe2w_small.jpg"group-title="SERIE - Aqui na Terra",alliptvlinks.com SERIE - AQUI NA TERRA DUB S02 E08
+http://boxiptv.club:8080/series/josecarlos/123456/67754.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SUPERSTORE DUB S03 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/8N5T1fFcHu3bCP3ifwzwbJ2pMnP_small.jpg"group-title="SERIE - Superstore",alliptvlinks.com SERIE - SUPERSTORE DUB S03 E08
+http://boxiptv.club:8080/series/josecarlos/123456/67951.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SUPERSTORE DUB S03 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/8N5T1fFcHu3bCP3ifwzwbJ2pMnP_small.jpg"group-title="SERIE - Superstore",alliptvlinks.com SERIE - SUPERSTORE DUB S03 E09
+http://boxiptv.club:8080/series/josecarlos/123456/67952.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SUPERSTORE DUB S03 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/8N5T1fFcHu3bCP3ifwzwbJ2pMnP_small.jpg"group-title="SERIE - Superstore",alliptvlinks.com SERIE - SUPERSTORE DUB S03 E10
+http://boxiptv.club:8080/series/josecarlos/123456/67953.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SUPERSTORE DUB S03 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/8N5T1fFcHu3bCP3ifwzwbJ2pMnP_small.jpg"group-title="SERIE - Superstore",alliptvlinks.com SERIE - SUPERSTORE DUB S03 E11
+http://boxiptv.club:8080/series/josecarlos/123456/67954.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SUPERSTORE DUB S03 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/8N5T1fFcHu3bCP3ifwzwbJ2pMnP_small.jpg"group-title="SERIE - Superstore",alliptvlinks.com SERIE - SUPERSTORE DUB S03 E12
+http://boxiptv.club:8080/series/josecarlos/123456/67955.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SUPERSTORE DUB S03 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/8N5T1fFcHu3bCP3ifwzwbJ2pMnP_small.jpg"group-title="SERIE - Superstore",alliptvlinks.com SERIE - SUPERSTORE DUB S03 E13
+http://boxiptv.club:8080/series/josecarlos/123456/67956.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SUPERSTORE DUB S03 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/8N5T1fFcHu3bCP3ifwzwbJ2pMnP_small.jpg"group-title="SERIE - Superstore",alliptvlinks.com SERIE - SUPERSTORE DUB S03 E14
+http://boxiptv.club:8080/series/josecarlos/123456/67957.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - SUPERSTORE DUB S03 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/8N5T1fFcHu3bCP3ifwzwbJ2pMnP_small.jpg"group-title="SERIE - Superstore",alliptvlinks.com SERIE - SUPERSTORE DUB S03 E15
+http://boxiptv.club:8080/series/josecarlos/123456/67958.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O DOUTRINADOR DUB S01 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/25o85eA6EnlRVYhqg5waNkmr9Mz_small.jpg"group-title="SERIE - O Doutrinador",alliptvlinks.com SERIE - O DOUTRINADOR DUB S01 E02
+http://boxiptv.club:8080/series/josecarlos/123456/68107.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O DOUTRINADOR DUB S01 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/25o85eA6EnlRVYhqg5waNkmr9Mz_small.jpg"group-title="SERIE - O Doutrinador",alliptvlinks.com SERIE - O DOUTRINADOR DUB S01 E03
+http://boxiptv.club:8080/series/josecarlos/123456/68108.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O DOUTRINADOR DUB S01 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/25o85eA6EnlRVYhqg5waNkmr9Mz_small.jpg"group-title="SERIE - O Doutrinador",alliptvlinks.com SERIE - O DOUTRINADOR DUB S01 E04
+http://boxiptv.club:8080/series/josecarlos/123456/68109.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O DOUTRINADOR DUB S01 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/25o85eA6EnlRVYhqg5waNkmr9Mz_small.jpg"group-title="SERIE - O Doutrinador",alliptvlinks.com SERIE - O DOUTRINADOR DUB S01 E05
+http://boxiptv.club:8080/series/josecarlos/123456/68110.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O DOUTRINADOR DUB S01 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/25o85eA6EnlRVYhqg5waNkmr9Mz_small.jpg"group-title="SERIE - O Doutrinador",alliptvlinks.com SERIE - O DOUTRINADOR DUB S01 E06
+http://boxiptv.club:8080/series/josecarlos/123456/68111.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - O DOUTRINADOR DUB S01 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/25o85eA6EnlRVYhqg5waNkmr9Mz_small.jpg"group-title="SERIE - O Doutrinador",alliptvlinks.com SERIE - O DOUTRINADOR DUB S01 E07
+http://boxiptv.club:8080/series/josecarlos/123456/68112.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - FAMÍLIA SOPRANO DUB S02 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/u0cLcBQITrYqfHsn06fxnQwtqiE_small.jpg"group-title="SERIE - Família Soprano",alliptvlinks.com SERIE - FAMÍLIA SOPRANO DUB S02 E13
+http://boxiptv.club:8080/series/josecarlos/123456/68138.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E01"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E01
+http://boxiptv.club:8080/series/josecarlos/123456/68262.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E02"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E02
+http://boxiptv.club:8080/series/josecarlos/123456/68263.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E03"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E03
+http://boxiptv.club:8080/series/josecarlos/123456/68264.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E04"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E04
+http://boxiptv.club:8080/series/josecarlos/123456/68265.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E05"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E05
+http://boxiptv.club:8080/series/josecarlos/123456/68266.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E06"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E06
+http://boxiptv.club:8080/series/josecarlos/123456/68267.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E07"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E07
+http://boxiptv.club:8080/series/josecarlos/123456/68268.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E08
+http://boxiptv.club:8080/series/josecarlos/123456/68269.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E09"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E09
+http://boxiptv.club:8080/series/josecarlos/123456/68270.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E10"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E10
+http://boxiptv.club:8080/series/josecarlos/123456/68271.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E11"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E11
+http://boxiptv.club:8080/series/josecarlos/123456/68272.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E12"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E12
+http://boxiptv.club:8080/series/josecarlos/123456/68273.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E13"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E13
+http://boxiptv.club:8080/series/josecarlos/123456/68274.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E14"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E14
+http://boxiptv.club:8080/series/josecarlos/123456/68275.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E15"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E15
+http://boxiptv.club:8080/series/josecarlos/123456/68276.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E16"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E16
+http://boxiptv.club:8080/series/josecarlos/123456/68277.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E17"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E17
+http://boxiptv.club:8080/series/josecarlos/123456/68278.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E18"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E18
+http://boxiptv.club:8080/series/josecarlos/123456/68279.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E19"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E19
+http://boxiptv.club:8080/series/josecarlos/123456/68280.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E20"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E20
+http://boxiptv.club:8080/series/josecarlos/123456/68281.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E21"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E21
+http://boxiptv.club:8080/series/josecarlos/123456/68282.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E22"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E22
+http://boxiptv.club:8080/series/josecarlos/123456/68283.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E23"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E23
+http://boxiptv.club:8080/series/josecarlos/123456/68284.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E24"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E24
+http://boxiptv.club:8080/series/josecarlos/123456/68285.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E25"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/lbP9C7qilXCBwEIXuUBd3vq3NAS_small.jpg"group-title="SERIE - Eu,alliptvlinks.com a Patroa e as Crianças",alliptvlinks.com SERIE - EU,alliptvlinks.com A PATROA E AS CRIANÇAS DUB S03 E25
+http://boxiptv.club:8080/series/josecarlos/123456/68286.mp4
+#EXTINF:-1 tvg-id=""tvg-name="SERIE - A FRAGILIDADE DOS CORPOS DUB S01 E08"tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/leIHORc3iIQGNUZGMIht9PEXgiL_small.jpg"group-title="SERIE - A Fragilidade dos Corpos",alliptvlinks.com SERIE - A FRAGILIDADE DOS CORPOS DUB S01 E08
+http://boxiptv.club:8080/series/josecarlos/123456/68458.mp4
